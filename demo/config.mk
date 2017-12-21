@@ -7,4 +7,4 @@ else
 	LIBS += GLU GL X11 Xcursor Xinerama Xrandr Xxf86vm Xi pthread m dl
 endif
 MOREDEPS = ..
-EXTDEPS = macu::0.0.2dev assetloader::dev gfxwnd::0.0.0dev
+EXTDEPS = macu::0.0.2dev assetloader::dev gfxwnd::0.0.1dev
